@@ -1,5 +1,5 @@
-# The Third Dimension Aeromodelling Club, NITT
-[Logo of Club](C:\Users\DELL\Desktop\3dlogo.png)
+
+![Logo of Club](C:\Users\DELL\Desktop\3dlogo.png)
 ---
 ## Projects and Competitions
 ### Aerodynamics
@@ -9,5 +9,6 @@
 - VIT
 - Tatva
 - SkyRush
+
 ### Tronix
 - Drone
