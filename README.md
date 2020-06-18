@@ -1,5 +1,7 @@
+<div align="center">
+	<img src="https://github.com/3D-club/Updates/blob/master/3dlogo.png" alt="drawing" width="200"/>
+</div>
 
-![Logo of Club](C:\Users\DELL\Desktop\3dlogo.png)
 ---
 ## Projects and Competitions
 ### Aerodynamics
@@ -12,3 +14,6 @@
 
 ### Tronix
 - Drone
+---
+### Reach us through
+* [Facebook](https://www.facebook.com/3d.amc.nitt/)
