@@ -1,11 +1,11 @@
 theme: jekyll-theme-cayman
 cayman_skin: "aqua"
-avatar: "3dlogo.png"
-round-avatar: true
+logo: "3dlogo.png"
+#round-avatar: true
 #logo: "C:\Users\DELL\Desktop\3dlogo.png"
 title: The Third Dimension Aeromodelling Club, NITT
-subtitle: A team above all, above all a team
-description: Project updates
-social-network-links:
-  email: "writeto3d@gmail.com"
-  facebook: @3d.amc.nitt
+description: A team above all, above all a team
+#description: Project updates
+#social-network-links:
+ # email: "writeto3d@gmail.com"
+ # facebook: @3d.amc.nitt
