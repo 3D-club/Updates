@@ -5,6 +5,7 @@
 ---
 ## Projects and Competitions
 ### Aerodynamics
+
 - Boeing
 - Airaavat
 - MIT 
@@ -13,7 +14,11 @@
 - SkyRush
 
 ### Tronix
+
 - Drone
+
 ---
-### Reach us through
-* [Facebook](https://www.facebook.com/3d.amc.nitt/)
+
+### Reach us on
+
+- [Facebook](https://www.facebook.com/3d.amc.nitt/)
