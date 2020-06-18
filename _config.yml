@@ -1,8 +1,5 @@
-#theme: jekyll-theme-cayman
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "aqua"
+theme: jekyll-theme-cayman
 #cayman_skin: "aqua"
-logo: "3dlogo.png"
 #round-avatar: true
 #logo: "C:\Users\DELL\Desktop\3dlogo.png"
 title: The Third Dimension Aeromodelling Club, NITT
